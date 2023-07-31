@@ -8,8 +8,8 @@ import fs from "fs"; // Import the MySQL package
 
 const proxyConfiguration = new ProxyConfiguration({
     proxyUrls: [
-        'http://xbyte-res-US:RlIUhKoA6Dr43Px@gw.ntnt.io:5959',
-        'http://xbyte-res-US:RlIUhKoA6Dr43Px@gw.ntnt.io:5959',
+        'http://xbyte-res-US:***************@gw.ntnt.io:5959',
+        'http://xbyte-res-US:***************@gw.ntnt.io:5959',
     ],
 });
 
